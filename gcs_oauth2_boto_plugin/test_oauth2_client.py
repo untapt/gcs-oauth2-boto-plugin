@@ -14,7 +14,7 @@
 
 """Unit tests for oauth2_client and related classes."""
 
-from __future__ import absolute_import
+
 
 import datetime
 import logging

@@ -28,7 +28,7 @@ notice.
 # tokens (in the python API client oauth2client, there is a single class that
 # encapsulates both refresh and access tokens).
 
-from __future__ import absolute_import
+
 
 import cgi
 import datetime

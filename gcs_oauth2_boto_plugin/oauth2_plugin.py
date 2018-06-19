@@ -14,7 +14,7 @@
 
 """Boto auth plugin for OAuth2.0 for Google Cloud Storage."""
 
-from __future__ import absolute_import
+
 
 import boto.auth_handler
 

@@ -20,7 +20,7 @@
 # IN THE SOFTWARE.
 """Plugin for Boto auth plugin framework, used with GCP OAuth2.0 credentials."""
 
-from __future__ import absolute_import
+
 
 # Import this module so that users can simply import the top-level module. Once
 # imported, boto will pick up our subclasses of AuthHandler.
